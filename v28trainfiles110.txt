@@ -1,0 +1,4 @@
+./result_3D_v28splited/DE_s16_085.mat
+./result_3D_v28splited/DE_s24_112.mat
+./result_3D_v28splited/DE_s04_031.mat
+./result_3D_v28splited/DE_s23_115.mat
